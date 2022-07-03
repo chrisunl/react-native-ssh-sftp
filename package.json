@@ -17,9 +17,6 @@
   ],
   "author": "Qian Sha",
   "license": "MIT",
-  "peerDependencies": {
-    "react-native": "^0.54.0"
-  },
   "repository" :
   {
     "type" : "git",
